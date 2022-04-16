@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+build
+.idea/vcs.xml
+build/linux-x86_64-normal-server-slowdebug/images/j2re-image/lib/applet/
+build/linux-x86_64-normal-server-slowdebug/images/j2sdk-image/jre/lib/applet/
+cmake-build-debug
